@@ -1,0 +1,20 @@
+{
+  "name": "telegram_arhiv_mess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "input": "^1.0.1",
+    "mongodb": "^7.0.0",
+    "telegram": "^2.26.22"
+  }
+}
